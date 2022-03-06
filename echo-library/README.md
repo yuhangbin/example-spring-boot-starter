@@ -1,4 +1,4 @@
-# Echo Library
+# Echo Bot
 
 ## Usage
 ```java

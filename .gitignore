@@ -1,1 +1,5 @@
 .idea/
+echo-library/target
+echo-sample-app/target
+echo-spring-boot-autoconfigure/target
+echo-spring-boot-starter/target

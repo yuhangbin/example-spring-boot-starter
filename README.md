@@ -1,9 +1,11 @@
 # Spring Boot Starter Example
 
+Only do one thing: create an echo bot by spring boot autoconfigure way.
+
 Personal understanding: 
     Spring Boot Starter contains autoconfigure and dependencies integration.
 
-What should do?
+What should we do?
 1. An auto-configure class for our library along with a properties class for custom configuration. [2]
 2. A starter pom to bring in the dependencies of the library and the autoconfigure project. [2]
 
